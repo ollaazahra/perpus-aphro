@@ -1,0 +1,216 @@
+/* ================================
+   GLOBAL STYLE
+================================ */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f7f7fa;
+    color: #333;
+}
+
+header {
+    background: #561c24;
+    color: white;
+    padding: 20px 40px;
+    text-align: left;
+    font-size: 17px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 6px 12px;
+    border-radius: 6px;
+    transition: 0.3s ease;
+    font-weight: 500;
+}
+
+
+/* Container */
+.news-container {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+}
+
+/* Judul Berita */
+.news-title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: #561c24;
+}
+
+/* Info Berita */
+.news-meta {
+    font-size: 0.9rem;
+    color: #777;
+    margin-bottom: 35px;
+}
+
+/* Gambar Berita */
+.news-image {
+    width: 100%;
+    border-radius: 13px;
+    margin-bottom: 25px;
+}
+
+/* Isi Berita */
+.news-content {
+    font-size: 1rem;
+    line-height: 1.7;
+}
+
+/* Tombol Kembali */
+.back-btn {
+    display: inline-block;
+    margin-top: 35px;
+    padding: 12px 20px;
+    background: #561c24;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.back-btn:hover {
+    background: #6d2932;
+}
+
+
+/* ================================
+   GLOBAL STYLE
+================================ */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f7f7fa;
+    color: #333;
+}
+
+/* Container */
+.news-container {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+}
+
+/* Judul Berita */
+.news-title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: #561c24;
+}
+
+/* Info Berita */
+.news-meta {
+    font-size: 0.9rem;
+    color: #777;
+    margin-bottom: 25px;
+}
+
+/* Gambar Berita */
+.news-image {
+    width: 100%;
+    border-radius: 14px;
+    margin-bottom: 25px;
+}
+
+/* Isi Berita */
+.news-content {
+    font-size: 1rem;
+    line-height: 1.7;
+}
+
+/* Tombol Kembali */
+.back-btn {
+    display: inline-block;
+    margin-top: 35px;
+    padding: 12px 20px;
+    background: #561c24;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.back-btn:hover {
+    background: #6d2932;
+}
+
+
+/* ================================
+   GLOBAL STYLE
+================================ */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f7f7fa;
+    color: #333;
+}
+
+/* Container */
+.news-container {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+}
+
+/* Judul Berita */
+.news-title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: #561c24;
+}
+
+/* Info Berita */
+.news-meta {
+    font-size: 0.9rem;
+    color: #777;
+    margin-bottom: 25px;
+}
+
+/* Gambar Berita */
+.news-image {
+    width: 100%;
+    border-radius: 14px;
+    margin-bottom: 25px;
+}
+
+/* Isi Berita */
+.news-content {
+    font-size: 1rem;
+    line-height: 1.7;
+}
+
+/* Tombol Kembali */
+.back-btn {
+    display: inline-block;
+    margin-top: 35px;
+    padding: 12px 20px;
+    background: #561c24;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.back-btn:hover {
+    background: #6d2932;
+}
